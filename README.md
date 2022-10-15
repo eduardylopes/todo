@@ -23,7 +23,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 1. Clone o repositório
 
 ```bash
-git@github.com:eduardylopes/todo.git
+git clone https://github.com/eduardylopes/todo.git
 ```
 
 2. Instale as dependências
